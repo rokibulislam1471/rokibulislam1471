@@ -2,13 +2,14 @@
 
 🎓 Computer Science & AI Student  
 💡 Currently Building: Whatever on my mind  
-🌱 Learning: Python | Machine Learning | Deep Learning  
-⚡ Fun fact: I built an AI that reads my face and plays music!
+🌱 Learning: Python | Machine Learning | Deep Learning  | JAVA
+
 
 ---
 
 ## 🏆 Codeforces Stats
 ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=CommanderX1&theme=dark)
+
 
 ---
 
